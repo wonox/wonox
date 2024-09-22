@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**wonox/wonox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Qiita posts
+[![My Qiita posts](https://qiita-badge.apiapi.app/s/wonox/posts.svg)](http://qiita.com/wonox)
+# My Qiita contributions
+[![My Qiita contributions](https://qiita-badge.apiapi.app/s/wonox/contributions.svg)](http://qiita.com/wonox)
+# My Qiita followers
+[![My Qiita followers](https://qiita-badge.apiapi.app/s/wonox/followers.svg)](http://qiita.com/wonox)
+                
+# My work
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* (family tree maker)[https://wonox.github.io/pedigree/bfs_test.html]
+* (hangul to pinyin)[https://wonox.github.io/han2pin/han2pin.html]
+* (二十一代集の検索 niju-ichi-daishu)[https://wonox.github.io/nijuichidaishu/array_search.html]
+* (360link unify search)[https://respected-fourth-bar.glitch.me/]
